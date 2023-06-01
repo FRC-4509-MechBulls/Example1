@@ -2,3 +2,4 @@
 
 This is feature #1
 This is Feature Number 2!
+Feature 3
